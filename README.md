@@ -1,0 +1,2 @@
+# SWE-BOOK
+The purpose of the document is to provide pdf books from server according to semester wise courses. its requirements with respect to students. Also, we shall predict and sort out how we hope this system will be used in order to gain a better understanding of the project, outline concepts that may be developed later, and document ideas that are being considered, but may be discarded as the system develops.
